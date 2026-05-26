@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529450744759",
+    "project_id": "fir-katering",
+    "storage_bucket": "fir-katering.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529450744759:android:11597c9ba290ca17650632",
+        "android_client_info": {
+          "package_name": "com.example.demokatering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqqB0Bo7eWfN918gnX1PNRZPiT9wJ4-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
